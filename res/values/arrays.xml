@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="exercise_names">
+        <item>Race</item>
+        <item>Running</item>
+        <item>Cycling</item>
+        <item>Stationary Bike</item>
+        <item>Treadmill</item>
+        <item>Swimming</item>
+        <item>Biathlon</item>
+        <item>Triathlon</item>
+        <item>Weights</item>
+    </string-array>
+    <string-array name="unitsValues">
+        <item>km/h</item>
+        <item>mi/h</item>
+        <item>knots</item>
+        <item>m/s</item>
+    </string-array>
+    <string-array name="colorValues">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>White</item>
+    </string-array>
+    <string-array name="about_authors">
+
+        <!-- Add your name here if you helped out -->
+        <item>Andy Aspell-Clark http://andy.aspellclark.org.uk/</item>
+    </string-array>
+    <string-array name="about_documenters">
+
+        <!-- Add your name here if you helped out -->
+        <item>Andy Aspell-Clark</item>
+    </string-array>
+    <string-array name="about_translators">
+
+        <!--
+             Add your name here if you helped out, but only in the arrays.xml for the localization 
+			that you helped to translate into!
+        -->
+        <item>Andy Aspell-Clark</item>
+    </string-array>
+    <string-array name="about_helpers">
+
+        <!-- Add your name here if you helped out -->
+        <item>Andy Aspell-Clark</item>
+    </string-array>
+    <string-array name="about_artists"> <!-- Add your name here if you helped out -->
+        <item>Andy Aspell-Clark</item>
+    </string-array>
+
+</resources>

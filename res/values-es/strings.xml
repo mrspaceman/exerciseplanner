@@ -1,0 +1,57 @@
+<resources>
+
+    <string name="app_name">"Visor Plan de Formación"</string>
+
+    <!-- Menu Items -->
+    <string name="action_help">"{0}Helpful{/0} {1} {/1}"</string>
+    <string name="action_settings">"Configuración"</string>
+    <string name="action_select_plan">"Seleccione Nuevo Plan de Formación"</string>
+    <string name="action_jump_to_today">"Ir a Hoy"</string>
+
+    <!-- Activity Strings -->
+    <string name="list_row_header_workouts">"&lt;b&gt;%1$s&lt;/ b&gt; Sesiones"</string>
+    <string name="week_start_nbr">"Semana: &lt;b&gt;%1$s&lt;/ b&gt; / &lt;b&gt;%2$s&lt;/ b&gt;"</string>
+    <string name="week_start_date">"&lt;b&gt; %1$s &lt;/ b&gt;"</string>
+    <string name="week_summary">"Total: &lt;big&gt; &lt;b&gt; %1$s &lt;/ b&gt; &lt;/ big&gt; kilometros + &lt;big&gt; &lt;b&gt; %2$s &lt;/ b&gt; &lt;/ big&gt; mins"</string>
+    <string name="race_date_picker_title">"Escoja su Race Fecha"</string>
+    <string name="race_date_picker_btn_done">"Completado"</string>
+    <string name="race_date_picker_btn_no_race">"No Raza"</string>
+
+    <!-- File Chooser -->
+    <string name="file_chooser_title">"Seleccione un Plan de Formación"</string>
+    <string name="file_chooser_button_text">"Unidades de selectividad"</string>
+
+    <!-- Built in training plans -->
+    <string name="trainingplan_chooser_title">"Elige un Plan Built-In"</string>
+    <string name="trainingplan_chooser_button">"Unidades de selectividad"</string>
+
+    <string-array name="training_plans">
+        <item>"Sprint-Tri-12Wk-Principiante"</item>
+        <item>"Bupa-10K-Principiante"</item>
+        <item>"Libro-Half-Marathon-Principiante"</item>
+        <item>"Libro-Half-Marathon-Advanced"</item>
+        <item>"RW-Half-Marathon-Principiante"</item>
+        <item>"RW-Half-Marathon-Intermedio"</item>
+        <item>"RW-Half-Marathon-Advanced"</item>
+    </string-array>
+
+    <!-- Preferences -->
+    <string name="pref_activity_title">"preferencias"</string>
+    <string name="pref_time_am_title">"Tiempo de día para cambiar"</string>
+    <string name="pref_time_am_default">07:00</string>
+    <string name="pref_time_am_description">"entrenamiento de la mañana es @ %1$s"</string>
+    <string name="pref_time_noon_title">"Tiempo de día para cambiar"</string>
+    <string name="pref_time_noon_default">13:00</string>
+    <string name="pref_time_noon_description">"entrenamiento del mediodía es @ %1$s"</string>
+    <string name="pref_time_pm_title">"Tiempo de día para cambiar"</string>
+    <string name="pref_time_pm_default">19:00</string>
+    <string name="pref_time_pm_description">"entrenamiento de la tarde es @ %1$s"</string>
+
+    <!-- Widgets -->
+    <string name="widget_dashclock_title">"Visor Plan de Formación"</string>
+    <string name="widget_dashclock_settings_title">"Formación Ajustes Visor de planos"</string>
+    <string name="widget_dashclock_description">"Ver el entrenamiento de hoy"</string>
+    <string name="widget_dashclock_title_field">"%1$s : %2$s"</string>
+    <string name="widget_dashclock_body_field">"%1$s %2$s"</string>
+
+</resources>

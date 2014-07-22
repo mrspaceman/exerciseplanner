@@ -1,0 +1,68 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".PlanViewerActivity" >
+
+    <ImageButton
+        android:id="@+id/trainingplan_week_btn_week_prev"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/trainingplan_week_start_date"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/trainingplan_week_start_nbr"
+        android:src="@drawable/btn_week_prev" />
+
+    <ImageButton
+        android:id="@+id/trainingplan_week_btn_week_next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/trainingplan_week_btn_week_prev"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/trainingplan_week_btn_week_prev"
+        android:src="@drawable/btn_week_next" />
+
+    <TextView
+        android:id="@+id/trainingplan_week_start_nbr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/trainingplan_week_btn_week_next"
+        android:layout_toRightOf="@+id/trainingplan_week_btn_week_prev"
+        android:gravity="center_horizontal"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/trainingplan_week_start_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/trainingplan_week_start_nbr"
+        android:layout_toLeftOf="@+id/trainingplan_week_btn_week_next"
+        android:layout_toRightOf="@+id/trainingplan_week_btn_week_prev"
+        android:gravity="center_horizontal"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <ExpandableListView
+        android:id="@+id/trainingplan_week_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/trainingplan_week_summary"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/trainingplan_week_btn_week_prev" >
+    </ExpandableListView>
+
+    <TextView
+        android:id="@+id/trainingplan_week_summary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</RelativeLayout>

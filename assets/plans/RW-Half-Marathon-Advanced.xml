@@ -1,0 +1,411 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TrainingPlan name="Half Marathon - Beginners"
+	weeksduration="16" source="book:The Marathon and Half Marathon A Training Guide">
+
+	<Magazine type="magazine" title="Runners World"
+		website="http://www.runnersworld.co.uk/" editionYear="2013"
+		editionMonth="8" />
+
+	<weeks>
+		<week nbr="1">
+			<days>
+				<day nbr="1">
+					<AM type="RUN" distance="5" effort="Gentle">Gentle 5Km Jog</AM>
+				</day>
+				<day nbr="2">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="3">
+					<AM type="RUN" distance="5" effort="Gentle">Gentle 5Km Fartlek</AM>
+				</day>
+				<day nbr="4">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" distance="5" effort="Gentle">30 min Jog / Cross train</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="6" effort="Steady">6Km Steady</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="2">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="3">
+					<AM type="RUN" distance="5" effort="Gentle">Gentle 5Km Fartlek</AM>
+				</day>
+				<day nbr="4">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" duration="40" effort="Easy">40 min Jog / Walk</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="6.5" effort="Steady">6.5Km Steady</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="3">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="3">
+					<AM type="RUN" distance="6.5" effort="Gentle Fartlek">Gentle 6.5Km Fartlek</AM>
+				</day>
+				<day nbr="4">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" distance="5" effort="Easy">5 Km Easy Jog</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="8" effort="Steady">8Km Steady</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="4">
+			<days>
+				<day nbr="1">
+					<AM type="RUN" distance="5" effort="Gentle">Gentle 5Km</AM>
+				</day>
+				<day nbr="2">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="3">
+					<AM type="RUN" duration="30" effort="Hills">30 min hills</AM>
+				</day>
+				<day nbr="4">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" distance="5" effort="Easy">5 Km Jog</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="8" effort="Tempo">8Km Tempo</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="5">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="3">
+					<AM type="RUN" duration="30" effort="Intervals">30 min intervals</AM>
+				</day>
+				<day nbr="4">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" distance="6.5" effort="Easy">6.5 Km Jog</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="11" effort="Steady">11Km Steady</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="6">
+			<days>
+				<day nbr="1">
+					<AM type="RUN" distance="5" effort="Easy">5Km Easy</AM>
+				</day>
+				<day nbr="2">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="3">
+					<AM type="RUN" distance="6.5" effort="Hard Fartlek">6.5 Km Hard Fartlek</AM>
+				</day>
+				<day nbr="4">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" duration="45" effort="Cross Train">45 mins cross train</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="11" effort="Steady">11Km Steady</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="7">
+			<days>
+				<day nbr="1">
+					<AM type="RUN" distance="5" effort="Easy">5Km Easy</AM>
+				</day>
+				<day nbr="2">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="3">
+					<AM type="RUN" duration="40" effort="Hills">40 min Hills</AM>
+				</day>
+				<day nbr="4">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" distance="6.5" effort="Easy">6.5 Km Jog</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="13" effort="Steady">13Km Steady</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="8">
+			<days>
+				<day nbr="1">
+					<AM type="RUN" distance="5" effort="Easy">5Km Easy</AM>
+				</day>
+				<day nbr="2">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="3">
+					<AM type="RUN" duration="40" effort="Intervals">40 min intervals</AM>
+				</day>
+				<day nbr="4">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" distance="6.5" effort="Easy">6.5 Km Jog</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="10" effort="Tempo">10 Tempo</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="9">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="3">
+					<AM type="RUN" distance="8" effort="Fartlek">8Km Fartlek</AM>
+				</day>
+				<day nbr="4">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" duration="50" effort="Cross Train">50 mins cross train</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="14.5" effort="Steady">14.5Km Steady</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="10">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="3">
+					<AM type="RUN" duration="40" effort="Hills">40 min Hills</AM>
+				</day>
+				<day nbr="4">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" distance="8" effort="Steady">8Km Steady</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="16" effort="Steady">16Km Steady</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="11">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="3">
+					<AM type="RUN" duration="40" effort="Intervals">40 mins Intervals</AM>
+				</day>
+				<day nbr="4">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" distance="8" effort="Steady">8Km Steady</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="16" effort="Steady">16Km Steady</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="12">
+			<days>
+				<day nbr="1">
+					<AM type="RUN" distance="5" effort="Easy">5Km Easy</AM>
+				</day>
+				<day nbr="2">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="3">
+					<AM type="RUN" distance="8" effort="Fartlek">8Km Fartlek</AM>
+				</day>
+				<day nbr="4">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" distance="8" effort="Easy">8Km easy</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="19" effort="Quick">19Km Quick</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="13">
+			<days>
+				<day nbr="1">
+					<AM type="RUN" distance="6.5" effort="Easy">6.5Km Easy</AM>
+				</day>
+				<day nbr="2">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="3">
+					<AM type="RUN" duration="40" effort="Hills">40 mins Hills</AM>
+				</day>
+				<day nbr="4">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" distance="6.5" effort="Easy">6.5Km</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="19" effort="Steady">19Km Steady</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="14">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="3">
+					<AM type="RUN" distance="8" effort="Fartlek">8Km Fartlek</AM>
+				</day>
+				<day nbr="4">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" distance="6.5" effort="Easy">6.5Km</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="21" effort="Steady">21Km Steady</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="15">
+			<days>
+				<day nbr="1">
+					<AM type="RUN" distance="6.5" effort="Easy">6.5Km Easy</AM>
+				</day>
+				<day nbr="2">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="3">
+					<AM type="RUN" distance="8" effort="Race Pace">8Km at Race Pace</AM>
+				</day>
+				<day nbr="4">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" distance="6.5" effort="Easy">6.5Km</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="13" effort="Race Pace">13Km at Race Pace</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="16">
+			<days>
+				<day nbr="1">
+					<AM type="RUN" distance="5" effort="Easy">5Km Easy</AM>
+				</day>
+				<day nbr="2">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="3">
+					<AM type="RUN" distance="5" effort="Gentle">5Km Gentle</AM>
+				</day>
+				<day nbr="4">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" distance="5" effort="Gentle">5Km Gentle</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="21" effort="RACE">RACE</AM>
+				</day>
+			</days>
+		</week>
+	</weeks>
+</TrainingPlan>

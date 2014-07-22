@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<item name="kmph" type="id"></item>
+<item name="mph" type="id"></item>
+<item name="knots" type="id"></item>
+<item type="id" name="mps"></item>
+</resources>

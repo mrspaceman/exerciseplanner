@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<workout_plan>
+
+    <week number="1" >
+        <day number="1" >
+            <workout>
+                <name>
+                </name>
+
+                <description>
+                </description>
+
+                <duration>
+                </duration>
+
+                <duration_unit>
+                </duration_unit>
+            </workout>
+        </day>
+    </week>
+
+</workout_plan>

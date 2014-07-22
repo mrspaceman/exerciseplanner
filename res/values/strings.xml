@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Training Plan Viewer</string>
+    <string name="title_plan_viewer">Plan Viewer</string>
+    <string name="title_plan_overview">Plan Overview</string>
+    <string name="title_workout_recorder">Recorder</string>
+    <string name="title_workout_history">History</string>
+
+    <!-- Menu Items -->
+    <string name="action_help">Help</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_select_plan">Select New Training Plan</string>
+    <string name="action_jump_to_today">Goto Today</string>
+
+    <!-- Activity Strings -->
+    <string name="list_row_header_workouts">&lt;b&gt;%1$s&lt;/b&gt; sessions</string>
+    <string name="week_start_nbr">Week: &lt;b&gt;%1$s&lt;/b&gt; / &lt;b&gt;%2$s&lt;/b&gt;</string>
+    <string name="week_start_date">&lt;b&gt;%1$s&lt;/b&gt;</string>
+    <string name="week_summary">Total: &lt;big&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/big&gt; Km + &lt;big&gt;&lt;b&gt;%2$s&lt;/b&gt;&lt;/big&gt; mins</string>
+    <string name="race_date_picker_title">Pick Your Race Date</string>
+    <string name="race_date_picker_btn_done">Done</string>
+    <string name="race_date_picker_btn_no_race">No Race</string>
+
+    <!-- File Chooser -->
+    <string name="file_chooser_title">Select a Training Plan</string>
+    <string name="file_chooser_button_text">Select</string>
+
+    <!-- Built in training plans -->
+    <string name="trainingplan_chooser_title">Select a Built-In Plan</string>
+    <string name="trainingplan_chooser_button">Select</string>
+
+    <string-array name="training_plans">
+        <item>Sprint-Tri-12Wk-Beginner</item>
+        <item>Bupa-10K-Beginner</item>
+        <item>Book-Half-Marathon-Beginner</item>
+        <item>Book-Half-Marathon-Advanced</item>
+        <item>RW-Half-Marathon-Beginner</item>
+        <item>RW-Half-Marathon-Intermediate</item>
+        <item>RW-Half-Marathon-Advanced</item>
+    </string-array>
+
+    <!-- Preferences -->
+    <string name="pref_activity_title">Preferences</string>
+    <string name="pref_time_am_title">Time of day to change</string>
+    <string name="pref_time_am_default">07:00</string>
+    <string name="pref_time_am_description">morning workout is @ %1$s</string>
+    <string name="pref_time_noon_title">Time of day to change</string>
+    <string name="pref_time_noon_default">13:00</string>
+    <string name="pref_time_noon_description">midday workout is @ %1$s</string>
+    <string name="pref_time_pm_title">Time of day to change</string>
+    <string name="pref_time_pm_default">19:00</string>
+    <string name="pref_time_pm_description">evening workout is @ %1$s</string>
+
+    <!-- Widgets -->
+    <string name="widget_dashclock_title">Training Plan Viewer</string>
+    <string name="widget_dashclock_settings_title">Training Plan Viewer Settings</string>
+    <string name="widget_dashclock_description">View today\'s workout</string>
+    <string name="widget_dashclock_title_field">%1$s : %2$s</string>
+    <string name="widget_dashclock_body_field">%1$s %2$s</string>
+
+    <!-- Workout Recorder -->
+    <string name="wrkout_recrdr_btn_start">Start</string>
+    <string name="wrkout_recrdr_btn_stop">Stop</string>
+    <string name="wrkout_recrdr_btn_lap">Lap</string>
+    <string name="wrkout_recrdr_btn_Export">Export</string>
+    <string name="wrkout_recrdr_distance_total">%.2f Km</string>
+    <string name="wrkout_recrdr_service_name">GPSLoggerService</string>
+    <string name="wrkout_recrdr_service_started">GPSLoggerService is running</string>
+    <string name="wrkout_recrdr_service_stopped">GPSLoggerService has stopped</string>
+
+    <!-- Workout History -->
+    <string name="overview_show_bargraph">BarGraph</string>
+
+    <!-- Sony Smartwatch 2 -->
+    <!-- Title of preference activity -->
+    <string name="preference_activity_title">Training Plan Viewer Settings</string>
+    <!-- Configuration text shown in preferences -->
+    <string name="configuration_text">Training Plan Viewer settings</string>
+    <!-- Extension name, shown in preferences -->
+    <string name="extension_name">Training Plan Viewer</string>
+    <!-- Name of source, shown in preferences -->
+    <string name="source_name">Training Plan Viewer source</string>
+    <!-- Action Toasts, shown on accessory -->
+    <string name="action_event_1">Action Toast 1</string>
+    <string name="action_event_2">Action Toast 2</string>
+    <string name="action_event_3">Action Toast 3</string>
+
+    <!-- Text that is read before the display name on accessories that supports text to speech -->
+    <string name="text_to_speech">New sample notification event from</string>
+
+    <string name="preference_option_read_me">READ ME</string>
+    <string name="preference_key_read_me">preference_key_read_me</string>
+    <string name="preference_option_read_me_txt">1. Check menu option Active to generate events based on a static timer.\n\n2. Uncheck menu option Active to cancel the event generator.\n\n3. Tap Clear All Events to remove all events.</string>
+    <string name="preference_option_is_active">Active</string>
+    <string name="preference_key_is_active">preference_key_is_active</string>
+    <string name="preference_option_clear">Clear All Events</string>
+    <string name="preference_option_clear_txt">"All sample events on device will be cleared, continue?"</string>
+    <string name="preference_key_clear">preference_key_clear</string>
+    <string name="clear_success">All events have been deleted</string>
+    <string name="clear_failure">Failed to delete events</string>
+    
+</resources>

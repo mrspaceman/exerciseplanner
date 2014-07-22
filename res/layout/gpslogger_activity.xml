@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/gpslogger_activity_ScrollView01"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/gpslogger_activity_ButtonStart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/wrkout_recrdr_btn_start"
+            android:textSize="16px"
+            android:textStyle="bold"
+            android:width="90px" />
+
+        <Button
+            android:id="@+id/gpslogger_activity_ButtonStop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/wrkout_recrdr_btn_stop"
+            android:textSize="16px"
+            android:textStyle="bold"
+            android:width="90px" />
+
+        <TextView
+            android:id="@+id/gpslogger_activity_TextViewCurrentTripName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Current trip:" >
+        </TextView>
+
+        <EditText
+            android:id="@+id/gpslogger_activity_EditTextTripName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:width="200px" >
+        </EditText>
+
+        <Button
+            android:id="@+id/gpslogger_activity_ButtonNewTrip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Start new Trip"
+            android:textSize="16px"
+            android:textStyle="bold" >
+        </Button>
+
+        <TableLayout
+            android:id="@+id/gpslogger_activity_TableLayout01"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="3px" >
+
+            <TableRow
+                android:id="@+id/gpslogger_activity_TableRow01"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" >
+
+                <RadioGroup
+                    android:id="@+id/gpslogger_activity_RadioGroup01"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="3px" >
+
+                    <RadioButton
+                        android:id="@+id/gpslogger_activity_RadioGround"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Ground"
+                        android:textSize="16px"
+                        android:textStyle="bold" />
+
+                    <RadioButton
+                        android:id="@+id/gpslogger_activity_RadioAir"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Air"
+                        android:textSize="16px"
+                        android:textStyle="bold" />
+                </RadioGroup>
+
+                <LinearLayout
+                    android:id="@+id/gpslogger_activity_LinearLayout01"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="vertical"
+                    android:padding="3px" >
+
+                    <TextView
+                        android:id="@+id/gpslogger_activity_TextView01"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="3px"
+                        android:text="Altitude correction (meters):" >
+                    </TextView>
+
+                    <EditText
+                        android:id="@+id/gpslogger_activity_EditTextAltitudeCorrection"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:digits="-0123456789" >
+                    </EditText>
+                </LinearLayout>
+            </TableRow>
+        </TableLayout>
+
+        <Button
+            android:id="@+id/gpslogger_activity_ButtonExport"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:includeFontPadding="true"
+            android:text="@string/wrkout_recrdr_btn_Export"
+            android:textSize="16px"
+            android:textStyle="bold" >
+        </Button>
+
+        <ToggleButton
+            android:id="@+id/gpslogger_activity_ToggleButtonDebug"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textOff="Debug Off"
+            android:textOn="Debug On"
+            android:width="90px" >
+        </ToggleButton>
+    </LinearLayout>
+
+</ScrollView>

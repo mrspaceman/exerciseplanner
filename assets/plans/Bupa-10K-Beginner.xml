@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TrainingPlan name="Bupa 10K Plan - Beginner" source="http://www.bupa.co.uk/"
+	weeksduration="8">
+
+	<Website type="website" title="Run Bristol"
+		url="http://www.bupa.co.uk/running/training/training-programmes/beginner-10km/">
+	</Website>
+
+	<Help>
+	</Help>
+
+	<weeks>
+		<week nbr="1">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" duration="32" effort="Gentle">Run 15 minutes, walk 2
+						minutes, run 15 minutes
+					</AM>
+				</day>
+				<day nbr="3">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" duration="32" effort="Gentle">Run 15 minutes, walk 2
+						minutes, run 15 minutes
+					</AM>
+				</day>
+				<day nbr="5">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="3.2" effort="Steady">Run 3.2Km</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="2">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" duration="41" effort="Gentle">Run 18 minutes, walk 3
+						minutes, run 18 minutes
+					</AM>
+				</day>
+				<day nbr="3">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" duration="41" effort="Gentle">Run 18 minutes, walk 3
+						minutes, run 18 minutes
+					</AM>
+				</day>
+				<day nbr="5">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="5" effort="Steady">
+						Run 5Km
+					</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="3">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" duration="30" effort="Gentle">
+						Run 30 minutes
+					</AM>
+				</day>
+				<day nbr="3">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" duration="30" effort="Gentle">
+						Run 30 minutes
+					</AM>
+				</day>
+				<day nbr="5">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="5" effort="Steady">
+						Run 5Km
+					</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="4">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" duration="30" effort="Gentle">
+						Run 30 minutes continuously
+					</AM>
+				</day>
+				<day nbr="3">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" duration="30" effort="Gentle">
+						Run 30 minutes
+					</AM>
+				</day>
+				<day nbr="5">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" duration="45" effort="Steady">
+						Run 45 minutes
+					</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="5">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" duration="30" effort="Gentle">
+						Run 30 minutes
+					</AM>
+				</day>
+				<day nbr="3">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" duration="40" effort="Gentle">
+						Run 40 minutes
+					</AM>
+				</day>
+				<day nbr="5">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="6.4" effort="Steady">
+						Run 6.4Km
+					</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="6">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" duration="30" effort="Gentle">
+						Run 30 minutes
+					</AM>
+				</day>
+				<day nbr="3">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" duration="40" effort="Gentle">
+						Run 40 minutes
+					</AM>
+				</day>
+				<day nbr="5">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" duration="50" effort="Steady">
+						Run 50 minutes
+					</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="7">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" duration="45" effort="Gentle">Run 45 minutes</AM>
+				</day>
+				<day nbr="3">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" duration="45" effort="Gentle">Run 45 minutes</AM>
+				</day>
+				<day nbr="5">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="10" effort="Steady">Run 10Km</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="7">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" duration="45" effort="Gentle">
+						Run 45 minutes
+					</AM>
+				</day>
+				<day nbr="3">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" duration="30" effort="Gentle">Run 45 minutes</AM>
+				</day>
+				<day nbr="5">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="10" effort="Race">Run 10Km</AM>
+				</day>
+			</days>
+		</week>
+	</weeks>
+</TrainingPlan>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/day_border"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/trainingplan_row_type_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/trainingplan_row_workout_description"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_margin="5dp"
+        android:gravity="center_vertical"
+        android:src="@drawable/exercise_type_rest" />
+
+    <TextView
+        android:id="@+id/trainingplan_row_workout_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/trainingplan_row_type_img"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/trainingplan_row_workout_duration"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/trainingplan_row_type_img"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/trainingplan_row_type_img"
+        android:gravity="center_vertical"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/trainingplan_row_workout_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/trainingplan_row_workout_name"
+        android:layout_toLeftOf="@+id/trainingplan_row_workout_duration"
+        android:layout_toRightOf="@+id/trainingplan_row_type_img" />
+
+</RelativeLayout>

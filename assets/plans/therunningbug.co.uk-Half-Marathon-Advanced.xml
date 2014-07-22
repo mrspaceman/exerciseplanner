@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TrainingPlan name="RunningBug Beginners Half Marathon Training Plan"
+	weeksduration="12" source="website:The Running Bug">
+
+	<Website type="website" title="The Running Bug"
+		url="http://therunningbug.co.uk/training/plans-and-tips/b/weblog/archive/2011/01/14/beginners-half-marathon-training-plan.aspx">
+	</Website>
+
+	<Help>
+	</Help>
+
+	<weeks>
+		<week nbr="1">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" duration="30" effort="Easy">30 mins easy Run</AM>
+				</day>
+				<day nbr="3">
+					<AM type="XTRAIN" duration="30" effort="Easy">30 mins cross train</AM>
+				</day>
+				<day nbr="4">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" distance="8" effort="Tempo">8Km Tempo</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="10" effort="Steady">10Km Steady</AM>
+				</day>
+			</days>
+		</week>
+	</weeks>
+</TrainingPlan>

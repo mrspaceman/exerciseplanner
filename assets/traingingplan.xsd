@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+  <xs:element name="TrainingPlan">
+    <xs:complexType>
+        <xs:element ref="Book" maxOccurs="1" use="optional"/>
+        <xs:element ref="Magazine" maxOccurs="1" use="optional"/>
+        <xs:element ref="Website" maxOccurs="1" use="optional"/>
+        <xs:element name="Help" type="xs:string"/>
+      <xs:attribute name="name" type="xs:string" use="required"/>
+      <xs:attribute name="weeksduration" type="xs:string" use="required"/>
+      <xs:sequence>
+        <xs:element ref="Week" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Book">
+    <xs:complexType>
+      <xs:attribute name="title" type="xs:string" use="required"/>
+      <xs:attribute name="type" type="xs:string" use="required"/>
+      <xs:attribute name="website" type="xs:string" use="required"/>
+      <xs:element name="isbn" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Website">
+    <xs:complexType>
+      <xs:attribute name="title" type="xs:string" use="required"/>
+      <xs:attribute name="type" type="xs:string" use="required"/>
+      <xs:attribute name="url" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Magazine">
+    <xs:complexType>
+      <xs:attribute name="title" type="xs:string" use="required"/>
+      <xs:attribute name="type" type="xs:string" use="required"/>
+      <xs:attribute name="website" type="xs:string" use="required"/>
+        <xs:element name="edition" use="required"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Edition">
+    <xs:complexType>
+      <xs:attribute name="editionYear" type="xs:string" use="required"/>
+      <xs:attribute name="editionMonth" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Week">
+    <xs:complexType>
+      <xs:attribute name="nbr" type="xs:string" use="required"/>
+      <xs:sequence>
+        <xs:element ref="Workout" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Workout">
+    <xs:complexType>
+      <xs:attribute name="day" type="xs:string" use="required"/>
+      <xs:attribute name="duration" type="xs:string" use="required"/>
+      <xs:attribute name="distance" type="xs:string" use="required"/>
+      <xs:attribute name="effort" type="xs:string" use="required"/>
+      <xs:attribute name="image" type="xs:string" use="optional"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

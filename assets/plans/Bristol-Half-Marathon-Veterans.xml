@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TrainingPlan name="Bristol Half Marathon - Veterans"
+	weeksduration="12" source="magazine:Runners World August 2013">
+
+	<Magazine type="magazine" title="Runners World"
+		website="http://www.runbristol.co.uk/" editionYear="2013"
+		editionMonth="8" />
+
+	<weeks>
+		<week nbr="1">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest or 30-45 mins rec run and core conditioning</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" distance="3.2" effort="Steady">Am - 30-40 mins easy run Pm - 4 x 5 mins threshold (2 min jog recovery)</AM>
+				</day>
+				<day nbr="3">
+					<AM type="REST">45-60 mins easy run and core conditioning</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" distance="4.8" effort="Steady">30 mins</AM>
+					<PM type="RUN" distance="4.8" effort="Steady">30 mins progression run 10 easy, 10 steady, 10 threshold</PM>
+				</day>
+				<day nbr="5">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">4 x 5 mins at continuous/Kenyan hills. 2 mins jog rec - warm up and cool down well</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="6.4" effort="Long Slow">75 mins relaxed run</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="2">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest or 30-45 mins rec run and core conditioning</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" distance="3.2" effort="Steady">40 mins   </AM>
+<PM type="RUN" distance="3.2" effort="Steady">5 x 5 mins     at threshold (90     sec recovery)</AM>
+				</day>
+				<day nbr="3">
+					<AM type="REST">60 mins relaxed run and core conditioning</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" distance="4.8" effort="Steady">30 mins easy run</AM>
+<PM type="RUN" distance="3.2" effort="Steady">30 mins progression run of 10 easy, 10 steady, 10 at threshold</AM>
+				</day>
+				<day nbr="5">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">4 x 6 mins at 
+continuous/ 
+Kenyan hills . 
+2 min jog rec. 
+Warm up and 
+cool down well</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="8" effort="Long Slow">80-90 mins relaxed run</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="3">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest or 30-45 mins rec run and core conditioning</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" distance="3.2" effort="Steady">30 mins</AM>
+<PM type="RUN" distance="3.2" effort="Steady">6 x 5 mins    at threshold (90    sec recovery)</AM>
+				</day>
+				<day nbr="3">
+					<AM type="REST">60 mins relaxed run and core conditioning</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" distance="6.4" effort="Steady">Am - 30 mins easy Pm - 45 mins progression run of 15 easy, 15 steady and 15 at threshold</AM>
+				</day>
+				<day nbr="5">
+					<AM type="REST">45 mins easy run</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">5 x 5 mins at continuous/Kenyan hills. Warm up and cool down well</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="8" effort="Long Slow">90 mins with last 15 at HM pace if you feel good</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="4">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" duration="45" effort="fartlek">Light fartlek session of 5,4,3,2,1 mins off 90 sec jog built into a 45 mins run</AM>
+				</day>
+				<day nbr="3">
+					<AM type="REST">45 mins relaxed run and core conditioning</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" distance="8" effort="Steady">30 mins easy run</AM>
+				</day>
+				<day nbr="5">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">5k parkrun time trial OR 45 mins with middle 20-25 at threshold</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" duration="80" effort="Long Slow">80 mins easy run</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="5">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest or 30-45 mins rec run and core conditioning</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" distance="4.8" effort="Steady">Am - 30 mins Pm - 10 mins threshold, 4 x 3 mins at 10k pace, 10 mins threshold</AM>
+				</day>
+				<day nbr="3">
+					<AM type="REST">60-70 mins easy run</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" distance="5" effort="Hills">Am - 30 mins easy run Pm - 45 mins (15 easy, 15 steady, 15 HM pace)</AM>
+				</day>
+				<day nbr="5">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">45 mins recovery run and core conditioning</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="11.2" effort="Long Slow">1.40 with 3 x 10 mins at HM pace built into the last 60 mins off 3-5 mins easy run rec</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="6">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest or 30-45 mins rec run and core conditioning</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" distance="3.2" effort="Steady">Am - 30 mins easy run Pm - 45 mins easy run</AM>
+				</day>
+				<day nbr="3">
+					<AM type="REST">60-70 mins easy run</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" distance="9.6" effort="Race Pace">Am - 30 mins easy run Pm – 60 mins   inc 2 x 15 mins at   threshold off a 5   min jog</AM>
+				</day>
+				<day nbr="5">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">10 mins threshold and 5 x 2 mins at 5k pace and 10 mins threshold (2 mins between each effort)</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="9.6" effort="Long Slow">90 mins easy run</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="7">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest or 30-45 mins rec run and core conditioning</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" distance="6.4" effort="Steady">Am - 40 mins easy run Pm - 6/8 x 800 (even nos at HM pace/odd nos at 5k pace) 90 rec</AM>
+				</day>
+				<day nbr="3">
+					<AM type="REST">45-60 mins easy run</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" distance="9.6" effort="Hills">30 mins progression run with 10 easy, 10 steady and 10 at threshold</AM>
+				</day>
+				<day nbr="5">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">30 mins easy run</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="9.6" effort="Long Slow">Ideal 10k or shorter race. If not racing run 90 mins with the last 30 at target half pace</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="8">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest or 30-45 mins rec run and core conditioning</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" distance="3.2" effort="Steady">60-75 mins easy run</AM>
+				</day>
+				<day nbr="3">
+					<AM type="REST">Am - 30 mins easy run Pm - 30 mins easy run</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" distance="11.2" effort="Race Pace">Am - 40 mins Pm - 5 x 1600/400 (1600 at HM pace/400 at 5k pace) 45/90 sec</AM>
+				</day>
+				<day nbr="5">
+					<AM type="REST">45 mins easy run or rest</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">45-60 mins hilly run. Easy on flat but attack hills.</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="12.8" effort="Long Slow">2 hours with last 20 at threshold if you feel good</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="9">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest or 30- 
+45 mins rec 
+run and core 
+conditioning</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" distance="3.2" effort="Steady">Am 40-60 mins 
+easy run 
+Pm 45 mins (15 
+easy, 15 steady, 
+15 HM pace)</AM>
+				</day>
+				<day nbr="3">
+					<AM type="REST">Am - 30 mins 
+recovery run 
+Pm - 60 mins 
+steady run</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" distance="11.2" effort="Hills">Am - 45 mins
+easy run
+Pm 1200/400 x
+5 (1200 at 10k
+pace, 400 at 3k
+pace) 45 sec/90
+sec rec</AM>
+				</day>
+				<day nbr="5">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">45 mins
+recovery run</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="16" effort="Long Slow">80-90 mins with
+3 x 15 mins at
+threshold/HM
+pace off 5 min
+jog rec</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="10">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" distance="4.8" effort="Steady">Am - easy 30  mins rec run Pm - 3 x  (4x400) with rec of (60,40,20  sec) 2 mins between sets</AM>
+				</day>
+				<day nbr="3">
+					<AM type="REST">45 mins easy run and core conditioning</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" distance="11.2" effort="Race Pace">Am – 30 mins  easy run Pm - Rest or 30 sec and stretch</AM>
+				</day>
+				<day nbr="5">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">5k parkrun or 45 
+mins with the 
+last 5k fast</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="16" effort="Long Slow">2 hours relaxed
+with the last
+20 mins at
+threshold</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="11">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest or 30-45 mins rec run and core conditioning</AM>				
+				</day>
+				<day nbr="2">
+					<AM type="RUN" distance="3.2" effort="Steady">Am – 40 mins   easy run   Pm- 40 mins   steady run</AM>
+				</day>
+				<day nbr="3">
+					<AM type="REST">Pm - 80/90  mins inc 10 x 3 min threshold/3 mins steady in the middle 60</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" distance="11.2" effort="Race Pace">Am – 30 mins   easy run   Pm – 30 mins     easy run and     core</AM>
+				</day>
+				<day nbr="5">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">5 x 5 min at threshold off 90 easy jog</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="14.4" effort="Long Slow">60 mins relaxed run				</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="12">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest or 40 mins 
+easy run</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" distance="3.2" effort="Steady">Am – 30 mins 
+  easy run 
+  Pm – 4 x 3 mins 
+    at HM race pace 
+    (90 rec)</AM>
+				</day>
+				<day nbr="3">
+					<AM type="REST">50 mins 
+easy run</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" distance="8" effort="Race Pace">Am – 30 mins 
+  easy run</AM>
+				</day>
+				<day nbr="5">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">20-25 mins easy run</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="21" effort="Race">21Km Race</AM>
+				</day>
+			</days>
+		</week>
+	</weeks>
+</TrainingPlan>

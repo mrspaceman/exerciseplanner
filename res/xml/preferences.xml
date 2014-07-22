@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="General" >
+        <uk.co.droidinactu.exerciseplanner.planviewer.TimePreference
+            android:defaultValue="@string/pref_time_am_default"
+            android:key="pref_time_am"
+            android:singleLine="true"
+            android:title="@string/pref_time_am_title" />
+        <uk.co.droidinactu.exerciseplanner.planviewer.TimePreference
+            android:defaultValue="@string/pref_time_noon_default"
+            android:key="pref_time_noon"
+            android:singleLine="true"
+            android:title="@string/pref_time_noon_title" />
+        <uk.co.droidinactu.exerciseplanner.planviewer.TimePreference
+            android:defaultValue="@string/pref_time_pm_default"
+            android:key="pref_time_pm"
+            android:singleLine="true"
+            android:title="@string/pref_time_pm_title" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Sony Smartwatch 2" >
+
+        <!-- Read me -->
+        <Preference
+            android:key="@string/preference_key_read_me"
+            android:title="@string/preference_option_read_me" />
+        <!-- Active -->
+        <CheckBoxPreference
+            android:key="@string/preference_key_is_active"
+            android:title="@string/preference_option_is_active" />
+        <!-- Clear events -->
+        <Preference
+            android:key="@string/preference_key_clear"
+            android:title="@string/preference_option_clear" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

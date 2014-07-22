@@ -1,0 +1,23 @@
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialKeyguardLayout="@layout/planned_workouts_appwidget_4x1"
+    android:initialLayout="@layout/planned_workouts_appwidget_4x1"
+    android:minHeight="40dp"
+    android:minWidth="250dp"
+    android:previewImage="@drawable/planned_workouts_preview"
+    android:updatePeriodMillis="3600000"
+    android:widgetCategory="home_screen|keyguard" >
+
+</appwidget-provider><!--
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:configure="uk.co.droidinactu.exerciseplanner.appwidget.PlannedWorkoutsAppWidgetConfigure"
+    android:initialKeyguardLayout="@layout/example_keyguard"
+    android:initialLayout="@layout/example_appwidget"
+    android:minHeight="72dp"
+    android:minWidth="294dp"
+    android:previewImage="@drawable/preview"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="86400000"
+    android:widgetCategory="home_screen|keyguard" >
+
+</appwidget-provider>
+-->

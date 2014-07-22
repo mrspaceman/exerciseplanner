@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <Spinner
+        android:id="@+id/trainingplan_chooser_spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:entries="@array/training_plans" />
+
+    <Button
+        android:id="@+id/trainingplan_chooser_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/trainingplan_chooser_spinner"
+        android:layout_centerHorizontal="true"
+        android:text="@string/trainingplan_chooser_button" />
+
+</RelativeLayout>

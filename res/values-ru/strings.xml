@@ -1,0 +1,57 @@
+<resources>
+
+    <string name="app_name">"Просмотр плана обучения"</string>
+
+    <!-- Menu Items -->
+    <string name="action_help">"Помощь"</string>
+    <string name="action_settings">"Настройки"</string>
+    <string name="action_select_plan">"Выберите Новый учебный план"</string>
+    <string name="action_jump_to_today">"На сегодня"</string>
+
+    <!-- Activity Strings -->
+    <string name="list_row_header_workouts">"&lt;b&gt; %1$s &lt;/ B&gt; сессий"</string>
+    <string name="week_start_nbr">"Неделя: &lt;b&gt; %1$s &lt;/ B&gt; / &lt;b&gt; %2$s &lt;/ B&gt;"</string>
+    <string name="week_start_date">"&lt;b&gt; %1$s &lt;/ B&gt;"</string>
+    <string name="week_summary">"Всего: &lt;big&gt; &lt;b&gt; %1$s &lt;/ B&gt; &lt;/ большой&gt; KM + &lt;big&gt; &lt;b&gt; %2$s &lt;/ B&gt; &lt;/ большой&gt; минут"</string>
+    <string name="race_date_picker_title">"Выбери свою Гонка Дата"</string>
+    <string name="race_date_picker_btn_done">"Done"</string>
+    <string name="race_date_picker_btn_no_race">"Нет гонки"</string>
+
+    <!-- File Chooser -->
+    <string name="file_chooser_title">"Выберите план обучения"</string>
+    <string name="file_chooser_button_text">"Selected"</string>
+
+    <!-- Built in training plans -->
+    <string name="trainingplan_chooser_title">"Выберите встроенный в Плане"</string>
+    <string name="trainingplan_chooser_button">"Selected"</string>
+
+    <string-array name="training_plans">
+        <item>Sprint-Tri-12Wk-Beginner</item>
+        <item>Bupa-10K-Beginner</item>
+        <item>Book-Half-Marathon-Beginner</item>
+        <item>Book-Half-Marathon-Advanced</item>
+        <item>RW-Half-Marathon-Beginner</item>
+        <item>RW-Half-Marathon-Intermediate</item>
+        <item>RW-Half-Marathon-Advanced</item>
+    </string-array>
+
+    <!-- Preferences -->
+    <string name="pref_activity_title">"Настройки"</string>
+    <string name="pref_time_am_title">"Время суток изменить"</string>
+    <string name="pref_time_am_default">07:00</string>
+    <string name="pref_time_am_description">"утром тренировка @ %1$s"</string>
+    <string name="pref_time_noon_title">"Время суток изменить"</string>
+    <string name="pref_time_noon_default">13:00</string>
+    <string name="pref_time_noon_description">"полдень тренировки @ %1$s"</string>
+    <string name="pref_time_pm_title">"Время суток изменить"</string>
+    <string name="pref_time_pm_default">19:00</string>
+    <string name="pref_time_pm_description">"Вечером тренировка @ %1$s"</string>
+
+    <!-- Widgets -->
+    <string name="widget_dashclock_title">"Просмотр плана обучения"</string>
+    <string name="widget_dashclock_settings_title">"Обучение Планирование параметров просмотра"</string>
+    <string name="widget_dashclock_description">"Посмотреть сегодняшней тренировки"</string>
+    <string name="widget_dashclock_title_field">"%1$s : %2$s"</string>
+    <string name="widget_dashclock_body_field">"%1$s %2$s"</string>
+
+</resources>

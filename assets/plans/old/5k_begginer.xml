@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trainingPlan>
+
+	<type>Running</type>
+	<name>10K Beginner</name>
+	<description>A beginners training plan taking you up to running a 10K</description>
+
+	<week nbr="1">
+		<day nbr="1">
+			<type>rest</type>
+			<duration>0</duration>
+			<durationUnits>minutes</durationUnits>
+		</day>
+
+		<day nbr="2">
+			<type>run</type>
+			<duration>2400</duration>
+			<durationUnits>meters</durationUnits>
+		</day>
+
+		<day nbr="3">
+			<type>cycle</type>
+			<duration>5000</duration>
+			<durationUnits>meters</durationUnits>
+		</day>
+
+		<day nbr="4">
+			<type>run</type>
+			<duration>2400</duration>
+			<durationUnits>meters</durationUnits>
+		</day>
+
+		<day nbr="5">
+			<type>rest</type>
+			<duration>0</duration>
+			<durationUnits>minutes</durationUnits>
+		</day>
+
+		<day nbr="6">
+			<type>run</type>
+			<duration>3200</duration>
+			<durationUnits>meters</durationUnits>
+		</day>
+
+		<day nbr="7">
+			<type>run</type>
+			<duration>30</duration>
+			<durationUnits>minutes</durationUnits>
+		</day>
+	</week>
+
+</trainingPlan>

@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TrainingPlan name="RW Magazine Half Marathon - Intermediate"
+	weeksduration="10" source="magazine:Runners World August 2013">
+
+	<Magazine type="magazine" title="Runners World"
+		website="http://www.runnersworld.co.uk/" editionYear="2013"
+		editionMonth="8" />
+
+	<weeks>
+		<week nbr="1">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" distance="6.4" effort="Steady">6.4Km Steady</AM>
+				</day>
+				<day nbr="3">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" distance="8" effort="Race Pace">8Km with 4.8 @ Race Pace</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" distance="6.4" effort="Steady">6.4Km Steady</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="12.8" effort="Long Slow">12.8Km Long Slow Distance
+					</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="2">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" distance="8" effort="Steady">8Km Steady</AM>
+				</day>
+				<day nbr="3">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" distance="8" effort="Repeats">8Km with 3x1.6Km repeats</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" distance="6.4" effort="Steady">6.4Km Steady</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="12.8" effort="Long Slow">12.8Km Long Slow Distance
+					</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="3">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" distance="8" effort="Hills">8Km Hills</AM>
+				</day>
+				<day nbr="3">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" distance="8" effort="Race Pace">8Km with 4.8Km @ Race Pace
+					</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" distance="6.4" effort="Steady">6.4Km Steady</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="14.4" effort="Long Slow">14.4Km Long Slow Distance
+					</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="4">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" distance="8" effort="Steady">8Km Steady</AM>
+				</day>
+				<day nbr="3">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" distance="9.6" effort="Steady">9.6Km with 6.4Km @ Race
+						Pace</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" distance="6.4" effort="Steady">6.4Km Steady</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="14.4" effort="Long Slow">14.4Km Long Slow Distance
+					</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="5">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" distance="8" effort="Hills">8Km Hills</AM>
+				</day>
+				<day nbr="3">
+					<AM type="RUN" distance="4.8" effort="Steady">4.8Km Steady</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" distance="6.4" effort="Hills">6.4Km Steady</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" distance="6.4" effort="Steady">6.4Km Steady</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="8" effort="Long Slow">8Km Long Slow Distance</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="6">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" distance="6.4" effort="Steady">6.4Km Steady</AM>
+				</day>
+				<day nbr="3">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" distance="9.6" effort="Repeats">9.6Km with 4x1.6Km repeats
+					</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" distance="6.4" effort="Steady">6.4Km Steady</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="16" effort="Long Slow">16Km Long Slow Distance</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="7">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" distance="4.8" effort="Hills">4.8Km Hills</AM>
+				</day>
+				<day nbr="3">
+					<AM type="RUN" distance="4.8" effort="Steady">4.8Km Steady</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" distance="9.6" effort="Race Pace">9.6Km with 6.4 @ Race Pace
+					</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" distance="4.8" effort="Steady">4.8Km Steady</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="17.7" effort="Long Slow">17.7Km Long Slow Distance
+					</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="8">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" distance="4.8" effort="Steady">4.8Km Steady</AM>
+				</day>
+				<day nbr="3">
+					<AM type="RUN" distance="4.8" effort="Steady">4.8Km Steady</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" distance="11.2" effort="Race Pace">11.2Km with 8 @ Race Pace
+					</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" distance="6.4" effort="Steady">6.4Km Steady</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="21" effort="Long Slow">21Km Long Slow Distance</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="9">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" distance="4.8" effort="Hills">4.8Km Hills</AM>
+				</day>
+				<day nbr="3">
+					<AM type="RUN" distance="4.8" effort="Steady">4.8Km Steady</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" distance="11.2" effort="Repeats">11.2Km with 5x1.6Km
+						repeats</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" distance="4.8" effort="Steady">4.8Km Steady</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="17.7" effort="Long Slow">17.7Km Long Slow Distance
+					</AM>
+				</day>
+			</days>
+		</week>
+		<week nbr="10">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM type="RUN" distance="4.8" effort="Steady">4.8Km Steady</AM>
+				</day>
+				<day nbr="3">
+					<AM type="RUN" distance="4.8" effort="Steady">4.8Km Steady</AM>
+				</day>
+				<day nbr="4">
+					<AM type="RUN" distance="8" effort="Race Pace">8Km with 4.8 @ Race Pace</AM>
+				</day>
+				<day nbr="5">
+					<AM type="RUN" distance="6.4" effort="Steady">6.4Km Steady</AM>
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM type="RUN" distance="21" effort="Race">21Km Race</AM>
+				</day>
+			</days>
+		</week>
+	</weeks>
+</TrainingPlan>

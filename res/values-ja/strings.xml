@@ -1,0 +1,58 @@
+<resources>
+
+    <string name="app_name">"トレーニングプラン·ビューワ"</string>
+
+    <!-- Menu Items -->
+    <string name="action_help">"役立つ"</string>
+    <string name="action_settings">"設定"</string>
+    <string name="action_select_plan">"新しいトレーニング·プランを選択してください"</string>
+    <string name="action_jump_to_today">"後藤今日"</string>
+
+    <!-- Activity Strings -->
+    <string name="list_row_header_workouts">"&lt;B&gt; %1$s &lt;/ b&gt;のセッション"</string>
+    <string name="week_start_nbr">"週：の&lt;b&gt; %1$s &lt;/ B&gt; / &lt;B&gt; %2$s &lt;/ b&gt;に"</string>
+    <string name="week_start_date">"&lt;B&gt; %1$s &lt;/ B&gt;"</string>
+    <string name="week_summary">"合計：&lt;BIG&gt; &lt;B&gt; %1$s &lt;/ B&gt; &lt;/大&gt;キロ+ &lt;BIG&gt; &lt;B&gt; %2$s &lt;/ B&gt; &lt;/大&gt;分"</string>
+    <string name="race_date_picker_title">"あなたのレースの日を選ぶ"</string>
+    <string name="race_date_picker_btn_done">"完了"</string>
+    <string name="race_date_picker_btn_no_race">"いいえ人種ません"</string>
+
+    <!-- File Chooser -->
+    <string name="file_chooser_title">"トレーニングプランを選択してください"</string>
+    <string name="file_chooser_button_text">"選択"</string>
+
+    <!-- Built in training plans -->
+    <string name="trainingplan_chooser_title">"内蔵プランを選択してください"</string>
+    <string name="trainingplan_chooser_button">"選択"</string>
+
+    <string-array name="training_plans">
+        <item>Sprint-Tri-12Wk-Beginner</item>
+        <item>Bupa-10K-Beginner</item>
+        <item>Book-Half-Marathon-Beginner</item>
+        <item>Book-Half-Marathon-Advanced</item>
+        <item>RW-Half-Marathon-Beginner</item>
+        <item>RW-Half-Marathon-Intermediate</item>
+        <item>RW-Half-Marathon-Advanced</item>
+    </string-array>
+
+    <!-- Preferences -->
+    <string name="pref_activity_title">"設定"</string>
+    <string name="pref_time_am_title">"変更するには、一日の時間"</string>
+    <string name="pref_time_am_default">07:00</string>
+    <string name="pref_time_am_description">"朝のトレーニングでは、@で%1$s"</string>
+    <string name="pref_time_noon_title">"変更するには、一日の時間"</string>
+    <string name="pref_time_noon_default">13:00</string>
+    <string name="pref_time_noon_description">"真昼のトレーニングは、@で%1$s"</string>
+    <string name="pref_time_pm_title">"変更するには、一日の時間"</string>
+    <string name="pref_time_pm_default">19:00</string>
+    <string name="pref_time_pm_description">"夕方のトレーニングでは、@で%1$s"</string>
+
+    <!-- Widgets -->
+    <string name="widget_dashclock_title">"トレーニングプラン·ビューワ"</string>
+    <string name="widget_dashclock_settings_title">"トレーニングプラン·ビューワの設定"</string>
+    <string name="widget_dashclock_description">"今日のトレーニングを見る"</string>
+    <string name="widget_dashclock_title_field">"%1$s, %2$s"</string>
+    <string name="widget_dashclock_body_field">"%1$s
+%2$s"</string>
+
+</resources>

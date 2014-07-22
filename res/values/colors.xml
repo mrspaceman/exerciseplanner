@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<resources>
+
+    <color name="seafoam">#ffc6f9e5</color>
+    <color name="chartreuse">#ffb6e9b5</color>
+    <color name="emerald">#ffa6d9b5</color>
+    <color name="bluegrass">#ff96c9b5</color>
+    <color name="turquoise">#ff86b9b5</color>
+    <color name="slate">#ff76a9b5</color>
+    <color name="zone1">#ffff99</color>
+    <color name="zone2">#ffcc00</color>
+    <color name="zone3">#ff9900</color>
+    <color name="zone4">#ff6600</color>
+    <color name="zone5">#ff0000</color>
+    <color name="black">#000000</color>
+    <color name="today_background">#D0C0C0C0</color>
+    <color name="day_background">#60C7C0C0</color>
+    <color name="gray">#D1D3D4</color>
+    <color name="darker_gray">#B1B1B1</color>
+    <color name="lighter_gray">#FEFEFE</color>
+
+</resources>

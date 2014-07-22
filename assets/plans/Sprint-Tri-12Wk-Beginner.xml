@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TrainingPlan name="Sprint Triathlon - Beginner"
+	weeksduration="12">
+	<Book isbn="978-1-86126-963-8" title="The 12 Week Triathlete"
+		type="book"></Book>
+	<Help>
+		<instructions></instructions>
+		<glossary>
+			<term key="Brick">first value</term>
+			<term key="Sprint Triathlon">750 Meter Swim followed by 20 Km cycle and a 5 Km
+				Runto finish</term>
+			<term key="three">third value</term>
+		</glossary>
+		<faq>
+			<question key="Brick">first value</question>
+		</faq>
+	</Help>
+	<weeks>
+		<week nbr="1">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM duration="30" effort="Easy" type="WEIGHTS" />
+					<NOON duration="10" effort="Easy" type="SWIM" />
+				</day>
+				<day nbr="3">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="4">
+					<AM duration="30" effort="Easy" type="WEIGHTS" />
+				</day>
+				<day nbr="5">
+					<AM duration="20" effort="Easy" type="CYCLE" />
+				</day>
+				<day nbr="6">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="7">
+					<AM duration="15" effort="Easy" type="RUN" />
+				</day>
+			</days>
+		</week>
+		<week nbr="2">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM duration="30" effort="Easy" type="WEIGHTS" />
+					<NOON duration="10" effort="Easy" type="SWIM" />
+				</day>
+				<day nbr="3">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="4">
+					<AM duration="30" effort="Easy" type="WEIGHTS" />
+				</day>
+				<day nbr="5">
+					<AM duration="20" effort="Easy" type="CYCLE" />
+				</day>
+				<day nbr="6">
+					<AM duration="30" effort="Easy" type="CYCLE" />
+				</day>
+				<day nbr="7">
+					<AM duration="15" effort="Easy" type="RUN" />
+				</day>
+			</days>
+		</week>
+		<week nbr="3">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM duration="30" effort="Easy" type="WEIGHTS" />
+					<NOON duration="15" effort="Easy" type="SWIM" />
+				</day>
+				<day nbr="3">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="4">
+					<AM duration="30" effort="Easy" type="WEIGHTS" />
+				</day>
+				<day nbr="5">
+					<AM duration="30" effort="Easy" type="CYCLE" />
+				</day>
+				<day nbr="6">
+					<AM duration="40" effort="Easy" type="CYCLE" />
+				</day>
+				<day nbr="7">
+					<AM duration="20" effort="Easy" type="RUN" />
+				</day>
+			</days>
+		</week>
+		<week nbr="4">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM duration="30" effort="Easy" type="WEIGHTS" />
+					<NOON duration="10" effort="Easy" type="SWIM" />
+				</day>
+				<day nbr="3">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="4">
+					<AM duration="30" effort="Easy" type="WEIGHTS" />
+				</day>
+				<day nbr="5">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="6">
+					<AM duration="30" effort="Easy" type="CYCLE" />
+				</day>
+				<day nbr="7">
+					<AM duration="15" effort="Easy" type="RUN" />
+				</day>
+			</days>
+		</week>
+		<week nbr="5">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM duration="30" effort="Easy" type="WEIGHTS" />
+					<NOON duration="15" effort="Easy" type="SWIM" />
+				</day>
+				<day nbr="3">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="4">
+					<AM duration="30" effort="Easy" type="WEIGHTS" />
+				</day>
+				<day nbr="5">
+					<AM duration="30" effort="Easy" type="CYCLE" />
+				</day>
+				<day nbr="6">
+					<AM duration="40" duration2="5" effort="Easy" type="BRICK">Bikethen Run
+					</AM>
+				</day>
+				<day nbr="7">
+					<AM duration="20" effort="Easy" type="RUN" />
+				</day>
+			</days>
+		</week>
+		<week nbr="6">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM duration="30" effort="Easy" type="WEIGHTS" />
+					<NOON duration="15" effort="Easy" type="SWIM" />
+				</day>
+				<day nbr="3">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="4">
+					<AM duration="30" effort="Easy" type="WEIGHTS" />
+				</day>
+				<day nbr="5">
+					<AM duration="30" effort="Easy" type="CYCLE" />
+				</day>
+				<day nbr="6">
+					<AM duration="40" duration2="5" effort="Easy" type="BRICK">Bikethen Run
+					</AM>
+				</day>
+				<day nbr="7">
+					<AM duration="25" effort="Easy" type="RUN" />
+				</day>
+			</days>
+		</week>
+		<week nbr="7">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM duration="30" effort="Easy" type="WEIGHTS" />
+					<NOON duration="10" effort="Easy" type="SWIM" />
+				</day>
+				<day nbr="3">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="4">
+					<AM duration="30" effort="Easy" type="WEIGHTS" />
+				</day>
+				<day nbr="5">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="6">
+					<AM duration="30" effort="Easy" type="CYCLE" />
+				</day>
+				<day nbr="7">
+					<AM duration="15" effort="Easy" type="RUN" />
+				</day>
+			</days>
+		</week>
+		<week nbr="8">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM duration="30" effort="Easy" type="WEIGHTS" />
+					<NOON duration="20" effort="Easy" type="SWIM" />
+				</day>
+				<day nbr="3">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="4">
+					<AM duration="30" effort="Easy" type="WEIGHTS" />
+				</day>
+				<day nbr="5">
+					<AM duration="30" effort="Easy" type="CYCLE" />
+				</day>
+				<day nbr="6">
+					<AM duration="45" duration2="10" effort="Easy" type="BRICK">BikethenRun
+					</AM>
+				</day>
+				<day nbr="7">
+					<AM duration="25" effort="Easy" type="RUN" />
+				</day>
+			</days>
+		</week>
+		<week nbr="9">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM duration="30" effort="Easy" type="WEIGHTS" />
+					<NOON duration="20" effort="Easy" type="SWIM" />
+				</day>
+				<day nbr="3">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="4">
+					<AM duration="30" effort="Easy" type="WEIGHTS" />
+				</day>
+				<day nbr="5">
+					<AM duration="30" effort="Easy" type="CYCLE" />
+				</day>
+				<day nbr="6">
+					<AM duration="50" duration2="10" effort="Easy" type="BRICK">BikethenRun
+					</AM>
+				</day>
+				<day nbr="7">
+					<AM duration="30" effort="Easy" type="RUN" />
+				</day>
+			</days>
+		</week>
+		<week nbr="10">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM duration="30" effort="Easy" type="WEIGHTS" />
+					<NOON duration="20" effort="Easy" type="SWIM" />
+				</day>
+				<day nbr="3">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="4">
+					<AM duration="30" effort="Easy" type="WEIGHTS" />
+				</day>
+				<day nbr="5">
+					<AM duration="30" effort="Easy" type="CYCLE" />
+				</day>
+				<day nbr="6">
+					<AM duration="60" effort="Easy" type="CYCLE" />
+				</day>
+				<day nbr="7">
+					<AM duration="30" effort="Easy" type="RUN" />
+				</day>
+			</days>
+		</week>
+		<week nbr="11">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM duration="30" effort="Easy" type="WEIGHTS" />
+					<NOON duration="15" effort="Easy" type="SWIM" />
+				</day>
+				<day nbr="3">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="4">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="5">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="6">
+					<AM duration="40" duration2="10" effort="Easy" type="BRICK">Bikethen Run
+					</AM>
+				</day>
+				<day nbr="7">
+					<AM duration="20" effort="Easy" type="RUN" />
+				</day>
+			</days>
+		</week>
+		<week nbr="12">
+			<days>
+				<day nbr="1">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="2">
+					<AM duration="10" effort="Easy" type="SWIM" />
+				</day>
+				<day nbr="3">
+					<AM duration="10" effort="Easy" type="CYCLE" />
+				</day>
+				<day nbr="4">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="5">
+					<AM type="REST">Rest</AM>
+				</day>
+				<day nbr="6">
+					<AM duration="10" duration2="5" effort="Easy" type="BRICK">BikethenRun
+					</AM>
+				</day>
+				<day nbr="7">
+					<AM distance="0.75" distance2="20" distance3="5" effort="Race"
+						type="RACE_TRI">Swim / Bike / Run</AM>
+				</day>
+			</days>
+		</week>
+	</weeks>
+</TrainingPlan>
